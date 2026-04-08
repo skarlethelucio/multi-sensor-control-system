@@ -53,6 +53,6 @@ Open-loop system (no feedback from output)
 ---
 
 ## Demonstration
-(Add your video link here)
+https://youtube.com/shorts/CpC9sngDGJo
 
 Developed in 2025
